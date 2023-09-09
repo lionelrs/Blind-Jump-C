@@ -1,5 +1,5 @@
 # Blind-Jump-C
-This game is a "C version" of the Blind jump game originaly made by Evan Bowman in c++.
+This game is a "C version" of the [Blind jump](https://github.com/evanbowman/blind-jump) game originaly made by [Evan Bowman](https://github.com/evanbowman) in c++.
 Game made with :
 - [Lorentz Romeo](https://github.com/L0rentz)
 - [Marton Szuts](https://github.com/marttop)
